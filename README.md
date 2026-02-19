@@ -1,7 +1,5 @@
-+
-
-
 [Program-1 WAP to add three distances](#ass-01)
+
 [Program-2 WAP Hierchialclass](#ass-02)
 
 ## ass-01
