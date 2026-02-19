@@ -1,10 +1,10 @@
 +
 
 
-[Program-1 WAP to add three distances](#ass01)
-[Program-1 WAP Hierchialclass](#ass02)
+[Program-1 WAP to add three distances](#ass-01)
+[Program-2 WAP Hierchialclass](#ass-02)
 
-## ass01
+## ass-01
 ```
 import java.util.Scanner;
 
@@ -53,6 +53,8 @@ class two{
 }
 ```
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/316a1cd0-cbfa-44c9-bb85-bc0a91dec75b" />
+
+
 ## ass-02
 ```
 public class Hierchialclass {
