@@ -87,7 +87,8 @@ class Calculatortest {
     }
 }
 ~~~
-<img width="1181" height="672" alt="image" src="https://github.com/user-attachments/assets/43549507-cf00-433e-952f-7c7634f8e5f1" />
+<img width="1157" height="446" alt="Screenshot 2026-04-27 211826" src="https://github.com/user-attachments/assets/e9315be3-46e7-4777-873b-58e0ae269d94" />
+
 
 
 
@@ -255,7 +256,8 @@ class Distance {
      }
 }
 ~~~
-<img width="1239" height="609" alt="image" src="https://github.com/user-attachments/assets/62b984cc-e245-4c90-aa8e-35620f4b1026" />
+<img width="1567" height="660" alt="Screenshot 2026-04-27 212334" src="https://github.com/user-attachments/assets/f32db087-683c-4482-a2ea-d5b5f62025f3" />
+
 
 ## ASSIGNMENT-5
 ~~~
@@ -303,7 +305,8 @@ class clock {
      }
 }
 ~~~
-<img width="1241" height="629" alt="image" src="https://github.com/user-attachments/assets/c66e3805-8d6a-434e-81e5-b8146cf0b1e4" />
+<img width="1550" height="700" alt="Screenshot 2026-04-27 212624" src="https://github.com/user-attachments/assets/0899e10b-d7c9-4319-a9c3-036d00e64667" />
+
 
 
 ## ASSIGNMENT-6
@@ -350,7 +353,8 @@ class Array{
         } 
 }
 ~~~
-<img width="890" height="600" alt="image" src="https://github.com/user-attachments/assets/6d41d89d-fdc6-4b73-b79d-1fcbc37814dc" />
+<img width="1040" height="731" alt="Screenshot 2026-04-27 212722" src="https://github.com/user-attachments/assets/c7041c01-4068-4269-8d6f-41f6b79ee416" />
+
 
 ## ASSIGNMENT-7
 
@@ -1912,7 +1916,8 @@ public class Main5 {
 }
 ~~~
 
-<img width="1039" height="377" alt="image" src="https://github.com/user-attachments/assets/c49fa97d-b88b-40de-b37b-d3a27e006959" />
+<img width="1305" height="403" alt="Screenshot 2026-04-27 213149" src="https://github.com/user-attachments/assets/abc6a190-5bf8-4940-b25c-69e1c2488bf8" />
+
 
 ## ASSIGNMENT-22
 ~~~
